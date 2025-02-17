@@ -1,4 +1,4 @@
-
+appName: myhelmapp
 replicas: 5
 
 configmap:
